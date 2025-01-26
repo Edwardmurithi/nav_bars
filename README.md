@@ -1,5 +1,5 @@
 # Navigation
 
 ---
-Learn different responsive navigation design using js, css, and html
+* Learn different responsive navigation design using js, css, and html
 ---
